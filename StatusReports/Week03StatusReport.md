@@ -1,0 +1,9 @@
+# Week 3 Status Report
+
+The first major goal achieved this week was the completion of the Plan & Context Survey deliverable which was due on 13/06/2022. In this deliverable, I have provided an initial draft of the Literature Review (Context Survey) chapter for my dissertation, and I provided an initial draft of the contents and section headings for the whole dissertation report. Furthermore, I constructed a Gantt chart that represents my proposed schedule and time-frame for completing all of the various tasks and goals of this dissertation project.
+
+Following on from the discussion with Ian in the previous meeting, I also experimented with playback functionality in Java's MIDI environment/libraries. I managed to figure out how to set up a MIDI sequencer and coordinate MIDI events during playback. I anticipate that this will prove extremely useful for the future MIDI controller.
+ 
+I made significant progress with developing the researcher script for the user requirements user research study this week. In fact, I spent most of my time designing the user requirements study. This involved creating the semi-structured interview questions to gain the most relevant and appropriate insight into the topics of creativity and music production from a human-centred perspective. I also ideated and orchestrated/set-up the activities I would like to observe users undertaking in order to further understand the most relevant and appropriate insight into the topics of creativity and music production within the natural environments that users would undertake these tasks and activities.
+
+Finally, I also managed to recruit five participants who are willing to take part in my user research studies (the user requirements study and the evaluation study). Previously, we all agreed that five participants would be the perfect number of users to recruit for the user research studies based on this project's scope and timeline.

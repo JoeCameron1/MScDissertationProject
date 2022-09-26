@@ -1,0 +1,5 @@
+# Week 5 Status Report
+
+The past week for me has been focused on writing my literature review chapter and performing analysis on my user requirements study. I have now completed all qualitative data analysis via grounded theory on the user requirements data. I also have approximately 3000 words for my literature review so far and I now have plenty of quotes obtained via the aforementioned grounded theory analysis for my user requirements chapter. As a result, I now have an updated draft for everyone to read.
+
+Alongside writing, I have also been coming up with designs for my MIDI controller based on the findings of the user requirements study. Coincidentally, this has also supplemented some progress on work for implementation ideas as well. I have some sketches of ideas, and these will be iterated upon to gain more clarity and insight. For our upcoming meeting this week, I figure that it would be most productive for me to share my design ideas and how they relate to the findings of my study.

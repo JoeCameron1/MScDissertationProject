@@ -1,0 +1,8 @@
+# Week 8 Meeting Minutes - 15/07/2022
+## Participants: Joseph Cameron (Me), Ian Miguel, Kenneth Boyd, Xu Zhu
+
+The meeting started with me presenting a demo of the live mode of the Novel MIDI controller that I had implemented over the past week. Ian, Ken, & Xu were all very happy with the progress achieved.
+
+So, the focus of the meeting now shifted towards the implementation of the Novel MIDI controller's editor mode. I brought up the point that there's a prototype demo deliverable due on 22/07/2022, where I must upload whatever code I have at that point to the module management system, and that I would like to ideally have the editor mode finished by then. Ian then conveyed that I shouldn't stress too much about that deadline, as I don't have to have everything finished by then. The deadline acts as a motivational goal for implementation progress in projects. He finished by saying that I shouldn't rush implementation or miss out on implementing certain features to meet the deadline. Instead I can have basic functionality finished by 22/07/2022, and then spend time afterwards finishing everything up that I want to. I agreed with this, saying that I want to implement all of my design ideas and not miss anything out unnecessarily. Hence, I conveyed that the major goal over the next week would be finishing a basic implementation of editor mode in the Novel MIDI controller.
+
+To conclude the meeting, I stated that I would also make a start on writing up crucial points for the design chapter of my dissertation while it was all fresh in my mind. Everyone agreed that this would be productive and sensible.

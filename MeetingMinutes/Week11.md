@@ -1,0 +1,6 @@
+# Week 11 Meeting Minutes - 05/08/2022
+## Participants: Joseph Cameron (Me), Ian Miguel, Kenneth Boyd, Xu Zhu
+
+At the start of the meeting, I presented some findings from the evaluation study that I uncovered via qualitative data analysis using grounded theory methodology. Next, I explained my plan for showing the gathered quantitative data in the dissertation via charts of participants' activity statistics (time taken and number of errors made) and participant responses in the questionnaire. Everyone agreed that this is a sound plan.
+
+The deadline for the dissertation is 16/08/2022, hence I also provided the initial draft of my design and implementation chapters alongside the existing literature review and user requirements study chapters. I then suggested that over the next week, I would write an introduction chapter and update the literature review, user requirements study, design, and implementation chapters accordingly based on supervisors' (Ian & Ken) feedback and my own improvements.

@@ -1,0 +1,5 @@
+# Week 7 Status Report
+
+I managed to finish implementing the 'Live Mode' of the Novel MIDI controller this week. Live mode enables users to play notes and chords with a pinching gesture. Furthermore, the notes and chords available for play are determined by the musical key that is selected by users via a drop-down menu on the visual interface of the Processing Java application. I have enabled a range of notes and chords to be played from each of the 24 musical keys (C Major through to B Minor). Additionally, I have implemented the capability for users to play live pitch bend effects through the MIDI protocol when using the same pinching gesture used to play notes and chords.
+
+I experimented with various gestures this week to enable live play of notes, chords, and pitch bend effects. Notably, I had to decide between using the pinching gesture to the tapping gesture. Ultimately, I decided to move forward with the pinching gesture as it proved more robust for achieving all technical functionality, and it proved favourable when I tested it with Ken & Xu during the week.

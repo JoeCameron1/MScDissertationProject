@@ -1,0 +1,5 @@
+# Week 6 Status Report
+
+Firstly, this week I have managed to write an initial draft of the user requirements study dissertation chapter, along with brief outlines for all the subsections of this chapter. Currently it is around 1000 words long. In the final dissertation I'm hoping to add much more detail in this chapter, as I can foresee it being a central pillar for much justification throughout the dissertation project.
+
+Secondly, I have managed to complete the design phase of this project! I considered exploring possibilities and sketching ideas within three main design themes. I ended up picking a design theme involving gesture-based interaction with the Leap Motion controller and then produced more design ideas in that theme. I have now settled on to some well-thought design ideas that I will present in tomorrow's meeting.

@@ -1,0 +1,6 @@
+# Week 6 Meeting Minutes - 02/07/2022
+## Participants: Joseph Cameron (Me), Ian Miguel, Kenneth Boyd
+
+I started the meeting by presenting summarised bullet-pointed findings and anonymised quotes from my analysis of the user requirements study. I asked Ian & Ken if I was on the right track with how I'm presenting and writing up this qualitative analysis and the user requirements study in general, and they both confirmed that I am. We all agreed that a goal over the next week would involve me making a start on writing the user requirements study dissertation chapter.
+
+The rest of the meeting revolved around discussion of my initial design ideas for the MIDI controller's interface and its user interactions. Ken commented that I had made a strong start here, and that it was now time to start iterating my design sessions to make sure I use the next week to try and explore as many avenues as possible within the project's timeline. Ian stressed that I should aim to finish the design stage by next week's meeting to ensure that I leave plenty of time for implementing and realising my design ideas for the MIDI controller. Hence, we concluded the meeting with me stating that my other main goal for the week would be to finish the design stage of my user-centred design process and briefly present those ideas and sketches in next week's meeting.

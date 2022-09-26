@@ -1,0 +1,6 @@
+# Week 10 Meeting Minutes - 29/07/2022
+## Participants: Joseph Cameron (Me), Ian Miguel, Kenneth Boyd, Xu Zhu
+
+Initially I presented the full Novel MIDI Controller application for Ian, Ken, & Xu to interact with. This was done to make sure that it wouldn't throw unnecessary or irrelevant issues in the evaluation study. Thankfully, it performed well, and everyone was happy with it. The Novel MIDI controller is now ready to undergo evaluation.
+
+Next, we discussed my researcher script for the evaluation study. Overall, everyone provided positive feedback for the semi-structured interview and questionnaire sections of the script, as they aim to achieve clear research objectives. The activity script was also well-received, but Ken added that I should not depend on participants' musical expertise so much in the activities segment. This is to prevent participants from feeling overwhelmed etc. After tweaking some of the activities to achieve better suitability for beginner users, we all agreed that the evaluation study could now go ahead with the five recruited participants over the next week.

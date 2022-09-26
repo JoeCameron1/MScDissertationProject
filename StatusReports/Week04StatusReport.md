@@ -1,0 +1,5 @@
+# Week 4 Status Report
+
+I have been conducting my user requirements study over the past week, and I am glad to say that I have completed it with five participants. Throughout the study, I noticed some very strong recurring themes that will significantly influence the interaction and interface designs for my MIDI controller. An example of such a theme was that every participant mentioned a desire to be presented with example compositions rather than a blank canvas when attempting to make melodies. They expressed that this could act as a useful prompt to help inspire creativity. I was also able to observe and uncover some physical interactions that naturally suit certain musical scenarios, which should prove productive when looking to create gestures. Furthermore, I managed to gain a deep understanding of how people attempt to visualise music, which can influence the visual interface, feedback, and overall appearance of my MIDI controller.
+ 
+A natural next step would involve discussing some of the findings I uncovered in the user requirements study and to then start creating some design ideas for the MIDI controller’s interactions and visual interface(s).
